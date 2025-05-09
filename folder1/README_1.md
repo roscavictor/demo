@@ -3,4 +3,6 @@
 # Title 3
 Text text text
 
-TEST UPDATE HIGHLIGHT
+TEST TEXT REMOVAL
+
+CHECK UPDATE 2 
